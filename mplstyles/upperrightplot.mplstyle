@@ -1,0 +1,4 @@
+ytick.right         :   True
+ytick.left          :   False
+ytick.labelright    :   True
+ytick.labelleft     :   False

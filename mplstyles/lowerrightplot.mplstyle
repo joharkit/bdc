@@ -1,0 +1,9 @@
+xtick.top           :   False    ##False     ## draw ticks on the top side
+xtick.bottom        :   True   ##True      ## draw ticks on the bottom side
+xtick.labeltop      :   False    ##False     ## draw label on the top
+xtick.labelbottom   :   True   ##True      ## draw label on the bottom
+
+ytick.right         :   True
+ytick.left          :   False
+ytick.labelright    :   True
+ytick.labelleft     :   False

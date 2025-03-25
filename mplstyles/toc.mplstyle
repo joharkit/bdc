@@ -1,0 +1,26 @@
+xtick.top           :   False    ##False     ## draw ticks on the top side
+xtick.bottom        :   True  ##True      ## draw ticks on the bottom side
+xtick.labeltop      :   False    ##False     ## draw label on the top
+xtick.labelbottom   :   True  ##True      ## draw label on the bottom
+
+ytick.right         :   True
+ytick.left          :   False
+ytick.labelright    :   True
+ytick.labelleft     :   False
+
+## The figure subplot parameters.  All dimensions are a fraction of the
+figure.subplot.left    : 0.1#25  ## the left side of the subplots of the figure
+figure.subplot.right   : 0.95   ## the right side of the subplots of the figure
+figure.subplot.bottom  : 0.11   ## the bottom of the subplots of the figure
+figure.subplot.top     : 0.88  ## the top of the subplots of the figure
+figure.subplot.wspace  : 0.1 #0.2    ## the amount of width reserved for space between subplots,
+                                 ## expressed as a fraction of the average axis width
+figure.subplot.hspace  : 0.5 #0.2    ## the amount of height reserved for space between subplots,
+
+font.family         :   sans-serif
+font.size           :   10.0
+#text.usetex         :   True    ##False     ## use latex for all text handling. The following fonts
+axes.labelsize      :   10   ##medium    ## fontsize of the x any y labels
+axes.formatter.limits : -2, 2 #-7, 7 ## use scientific notation if log10
+#axes.formatter.use_mathtext : True ## When True, use mathtext for scientific
+                                     ## notation.
